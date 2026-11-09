@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Christian Open Library">
+  <title>Christian Open Library</title>
+  <style>
+    text { font-family: 'Liberation Mono', ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
+            text-anchor: middle; }
+    .r { font-size: 28px; fill: #3fb950; }
+    .r.h { fill: #7ee787; }
+    .m { font-size: 42px; fill: #3fb950; filter: url(#soft); }
+    .m.h { fill: #7ee787; }
+    .f { font-size: 76px; fill: #3fb950; filter: url(#soft); }
+    .f.h { fill: #effff3; filter: url(#glow); }
+    .f.t { filter: none; }
+    .page { fill: #06120b; stroke: #3fb950; stroke-width: 5; stroke-linejoin: round; filter: url(#soft); }
+    .cover { fill: #040b07; stroke: #3fb950; stroke-width: 4; stroke-linejoin: round; stroke-opacity: 0.55; }
+    .line { font-size: 11px; font-weight: 400; fill: #3fb950; fill-opacity: 0.7; text-anchor: start; }
+  </style>
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0" stop-color="#0b1810"/><stop offset="1" stop-color="#030604"/>
+    </radialGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.72">
+      <stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.6"/>
+    </radialGradient>
+    <radialGradient id="light" cx="256" cy="396" r="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3fb950" stop-opacity="0.22"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b"/>
+      <feFlood flood-color="#3fb950"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <g>
+    <text class="r h" x="28" y="268" fill-opacity="0.33">γ</text>
+    <text class="r" x="28" y="234" fill-opacity="0.20">ה</text>
+    <text class="r" x="28" y="200" fill-opacity="0.16">ל</text>
+    <text class="r" x="28" y="166" fill-opacity="0.13">Π</text>
+    <text class="r h" x="66" y="30" fill-opacity="0.27">γ</text>
+    <text class="r h" x="104" y="472" fill-opacity="0.23">α</text>
+    <text class="r" x="104" y="438" fill-opacity="0.14">ד</text>
+    <text class="r" x="104" y="404" fill-opacity="0.11">Σ</text>
+    <text class="r" x="104" y="370" fill-opacity="0.09">γ</text>
+    <text class="r" x="104" y="336" fill-opacity="0.13">י</text>
+    <text class="r h" x="104" y="30" fill-opacity="0.45">ט</text>
+    <text class="r h" x="142" y="472" fill-opacity="0.27">ω</text>
+    <text class="r" x="142" y="438" fill-opacity="0.16">χ</text>
+    <text class="r" x="142" y="404" fill-opacity="0.13">ש</text>
+    <text class="r" x="142" y="370" fill-opacity="0.11">ψ</text>
+    <text class="r" x="142" y="336" fill-opacity="0.15">נ</text>
+    <text class="r" x="142" y="302" fill-opacity="0.12">Π</text>
+    <text class="r" x="142" y="268" fill-opacity="0.10">פ</text>
+    <text class="r h" x="142" y="64" fill-opacity="0.42">א</text>
+    <text class="r" x="142" y="30" fill-opacity="0.25">ז</text>
+    <text class="r h" x="218" y="200" fill-opacity="0.23">מ</text>
+    <text class="r" x="218" y="166" fill-opacity="0.14">ב</text>
+    <text class="r" x="218" y="132" fill-opacity="0.11">נ</text>
+    <text class="r" x="218" y="98" fill-opacity="0.09">σ</text>
+    <text class="r" x="218" y="64" fill-opacity="0.07">Θ</text>
+    <text class="r" x="218" y="30" fill-opacity="0.06">ט</text>
+    <text class="r h" x="294" y="200" fill-opacity="0.25">פ</text>
+    <text class="r" x="294" y="166" fill-opacity="0.15">ν</text>
+    <text class="r" x="294" y="132" fill-opacity="0.12">Π</text>
+    <text class="r" x="294" y="98" fill-opacity="0.10">ζ</text>
+    <text class="r" x="294" y="64" fill-opacity="0.08">Φ</text>
+    <text class="r" x="294" y="30" fill-opacity="0.06">σ</text>
+    <text class="r h" x="332" y="166" fill-opacity="0.35">κ</text>
+    <text class="r" x="332" y="132" fill-opacity="0.21">γ</text>
+    <text class="r" x="332" y="98" fill-opacity="0.17">ψ</text>
+    <text class="r" x="332" y="64" fill-opacity="0.13">ט</text>
+    <text class="r" x="332" y="30" fill-opacity="0.11">ש</text>
+    <text class="r h" x="370" y="472" fill-opacity="0.20">ι</text>
+    <text class="r" x="370" y="438" fill-opacity="0.12">ט</text>
+    <text class="r" x="370" y="404" fill-opacity="0.10">ל</text>
+    <text class="r" x="370" y="370" fill-opacity="0.08">ק</text>
+    <text class="r h" x="408" y="234" fill-opacity="0.36">Α</text>
+    <text class="r" x="408" y="200" fill-opacity="0.22">δ</text>
+    <text class="r" x="408" y="166" fill-opacity="0.17">נ</text>
+    <text class="r" x="408" y="132" fill-opacity="0.14">י</text>
+    <text class="r" x="408" y="98" fill-opacity="0.11">ע</text>
+    <text class="r" x="408" y="64" fill-opacity="0.09">μ</text>
+    <text class="r" x="408" y="30" fill-opacity="0.07">ת</text>
+    <text class="r h" x="446" y="370" fill-opacity="0.21">ק</text>
+    <text class="r" x="446" y="336" fill-opacity="0.23">ט</text>
+    <text class="r" x="446" y="302" fill-opacity="0.19">υ</text>
+    <text class="r" x="446" y="268" fill-opacity="0.15">α</text>
+    <text class="r" x="446" y="234" fill-opacity="0.12">צ</text>
+    <text class="r" x="446" y="200" fill-opacity="0.10">ξ</text>
+    <text class="r" x="446" y="166" fill-opacity="0.08">Γ</text>
+    <text class="r" x="446" y="132" fill-opacity="0.06">Β</text>
+    <text class="r h" x="484" y="472" fill-opacity="0.27">ב</text>
+    <text class="r" x="484" y="438" fill-opacity="0.16">ל</text>
+    <text class="r" x="484" y="404" fill-opacity="0.13">Θ</text>
+    <text class="r" x="484" y="370" fill-opacity="0.10">β</text>
+    <text class="r" x="484" y="336" fill-opacity="0.15">π</text>
+    <text class="r h" x="484" y="132" fill-opacity="0.38">α</text>
+    <text class="r" x="484" y="98" fill-opacity="0.23">Γ</text>
+    <text class="r" x="484" y="64" fill-opacity="0.18">Ψ</text>
+    <text class="r" x="484" y="30" fill-opacity="0.15">ג</text>
+  </g>
+  <g>
+    <text class="m" x="180" y="150" fill-opacity="0.35">ד</text>
+    <text class="m" x="180" y="200" fill-opacity="0.55">ב</text>
+    <text class="m h" x="180" y="250" fill-opacity="0.85">ר</text>
+  </g>
+  <g>
+    <text class="f" x="256" y="108" fill-opacity="0.45">λ</text>
+    <text class="f" x="256" y="174" fill-opacity="0.58">ό</text>
+    <text class="f" x="256" y="240" fill-opacity="0.70">γ</text>
+    <text class="f" x="256" y="306" fill-opacity="0.85">ο</text>
+    <text class="f h" x="256" y="370" fill-opacity="1.00">ς</text>
+  </g>
+  <ellipse cx="256" cy="400" rx="190" ry="120" fill="url(#light)"/>
+  <path class="cover" d="M256 412 Q172 386 94 402 L94 476 Q176 462 256 496 Q336 462 418 476 L418 402 Q340 386 256 412 Z"/>
+  <path class="page" d="M256 404 Q176 378 104 394 L104 466 Q180 452 256 486 Z"/>
+  <path class="page" d="M256 404 Q336 378 408 394 L408 466 Q332 452 256 486 Z"/>
+  <defs><path id="l0" d="M118 416 Q178 402 242 430"/><path id="r0" d="M270 430 Q334 402 394 416"/><path id="l1" d="M118 432 Q178 418 242 446"/><path id="r1" d="M270 446 Q334 418 394 432"/><path id="l2" d="M118 448 Q178 434 242 462"/><path id="r2" d="M270 462 Q334 434 394 448"/></defs>
+  <text class="line"><textPath href="#l0" textLength="118" lengthAdjust="spacing">בראשית ברא אלהים</textPath></text><text class="line"><textPath href="#r0" textLength="118" lengthAdjust="spacing">ΕΝ ΑΡΧΗ ΗΝ Ο ΛΟΓΟΣ</textPath></text><text class="line"><textPath href="#l1" textLength="118" lengthAdjust="spacing">את השמים ואת הארץ</textPath></text><text class="line"><textPath href="#r1" textLength="118" lengthAdjust="spacing">ΚΑΙ Ο ΛΟΓΟΣ ΗΝ ΠΡΟΣ</textPath></text><text class="line"><textPath href="#l2" textLength="118" lengthAdjust="spacing">והארץ היתה תהו ובהו</textPath></text><text class="line"><textPath href="#r2" textLength="118" lengthAdjust="spacing">ΤΟΝ ΘΕΟΝ ΚΑΙ ΘΕΟΣ</textPath></text>
+  <rect width="512" height="512" fill="url(#vig)"/>
+</svg>

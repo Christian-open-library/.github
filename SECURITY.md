@@ -4,7 +4,7 @@
 
 ## What the connector is
 
-The connector lets Claude search the Christian Open Library: about 4,200 public-domain Christian books, seven Bibles and several Bible dictionaries. It runs as a small add-on to a hosted website. It can only **read** the library. Nothing you do through it changes the library, the website or anything else.
+The connector lets AI apps such as Claude, ChatGPT and Gemini search the Christian Open Library: about 4,200 public-domain Christian books, seven Bibles and several Bible dictionaries. It runs as a small add-on to a hosted website. It can only **read** the library. Nothing you do through it changes the library, the website or anything else.
 
 ## What we protect
 
@@ -22,7 +22,7 @@ We ran a structured security audit using an established review method. The revie
 - how requests are read and answered
 - every search and lookup tool
 - usage limits and spending caps
-- what text the connector passes to Claude
+- what text the connector passes to the AI
 - the scripts that build the library and update the website
 - the tools used on the build computer
 
@@ -53,7 +53,7 @@ Two possible problems were investigated and ruled out.
 |---|---|
 | Key check and access control | No issues found |
 | Search and lookup tools | No ways in found; extra size limits added |
-| What the connector shows Claude | Image links and web code in book text are now neutralized |
+| What the connector shows the AI | Image links and web code in book text are now neutralized |
 | Build and deploy tools | Issues fixed (see above) |
 | Spending cap | Tightened so simultaneous requests can't exceed it |
 | Large or malformed books | Size limits and per-book error handling added |
@@ -64,7 +64,7 @@ All 22 issues are fixed. Each fix has an automated test, and the full test suite
 
 - The review read the code closely, but it did not attack a live system. Each fix is backed by an automated test.
 - No review finds everything. We plan to review again after significant changes.
-- The connector relies on the hosting company, WordPress and Anthropic's Claude to secure their own parts.
+- The connector relies on the hosting company, WordPress and the AI apps that connect to it to secure their own parts.
 
 ## Reporting a problem
 

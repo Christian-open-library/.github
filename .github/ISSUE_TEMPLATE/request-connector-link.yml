@@ -1,12 +1,12 @@
 name: Request a connector link
-description: Ask for a personal link to search the library from Claude.
+description: Ask for a personal link to search the library from Claude, ChatGPT, Gemini or another AI app.
 title: "Connector link: "
 labels: ["connector request"]
 body:
   - type: markdown
     attributes:
       value: |
-        The connector lets Claude search the whole library by meaning, read passages with page citations, look up Bible verses (seven translations) and dictionary entries, and find which historic writers cited a verse.
+        The connector lets your AI app (Claude, ChatGPT, Gemini and others that support connectors) search the whole library by meaning, read passages with page citations, look up Bible verses (seven translations) and dictionary entries, and find which historic writers cited a verse.
         Your link is personal and is sent **privately**. It is never posted here. It's free, read-only, and has a fair-use daily limit.
         **This request is public.** Don't include an email address or other private details here. We'll reach you through the email address on your GitHub profile, or reply here to arrange a private way to send it.
   - type: input
