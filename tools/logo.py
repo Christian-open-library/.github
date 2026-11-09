@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Make profile/logo.svg, the organization's square logo: Greek and Hebrew letters falling in
-columns, terminal style, into an open book. The bright middle column reads (Ο) ΛΟΓΟΣ, "the Word"
+columns, terminal style, into an open book. The bright middle column reads λόγος, "the Word"
 (John 1:1); the column to its left reads דבר (davar, "word"). The book's pages carry Genesis 1:1-2
 in Hebrew and John 1:1 in Greek.
 
@@ -80,9 +80,8 @@ def book():
 def svg():
     bg = '\n    '.join(rain())
     davar = '\n    '.join(column(180, 'דבר', [150, 200, 250], [0.35, 0.55, 0.85], 'm'))
-    logos = '\n    '.join(column(256, 'ΟΛΟΓΟΣ', [54, 118, 182, 246, 310, 374],
-                                  [0.14, 0.42, 0.55, 0.68, 0.84, 1.0], 'f'))
-    logos = logos.replace('class="f" x="256" y="54"', 'class="f t" x="256" y="54"', 1)
+    logos = '\n    '.join(column(256, 'λόγος', [108, 174, 240, 306, 370],
+                                  [0.45, 0.58, 0.7, 0.85, 1.0], 'f'))
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {S} {S}" width="{S}" height="{S}" role="img" aria-label="Christian Open Library">
   <title>Christian Open Library</title>
   <style>
@@ -92,7 +91,7 @@ def svg():
     .r.h {{ fill: {LIGHT}; }}
     .m {{ font-size: 42px; fill: {GREEN}; filter: url(#soft); }}
     .m.h {{ fill: {LIGHT}; }}
-    .f {{ font-size: 64px; fill: {GREEN}; filter: url(#soft); }}
+    .f {{ font-size: 76px; fill: {GREEN}; filter: url(#soft); }}
     .f.h {{ fill: {HEAD}; filter: url(#glow); }}
     .f.t {{ filter: none; }}
     .page {{ fill: #06120b; stroke: {GREEN}; stroke-width: 5; stroke-linejoin: round; filter: url(#soft); }}
