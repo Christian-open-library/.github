@@ -30,6 +30,7 @@ You need a free [GitHub account](https://github.com/signup) for each request.
 ## Help the library grow
 
 - **[Suggest a book](https://github.com/Christian-open-library/.github/issues/new?template=suggest-a-book.yml)** you've found in a public-domain source.
+- **[Connector feedback](https://github.com/Christian-open-library/.github/issues/new?template=connector-feedback.yml):** tell us when the AI connector missed a book or quoted out of context. Each report becomes a test the connector has to pass.
 - Members can add books directly by pull request, following the library's contributing guide.
 
 Only free-to-share texts are accepted:

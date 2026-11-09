@@ -1,0 +1,47 @@
+name: Connector feedback
+description: Tell us when the AI connector gave a poor answer, missed a book, or quoted out of context.
+title: "Connector: "
+labels: ["connector feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every report helps. A missed book or a bad quote becomes a test question the connector must answer well before any later change goes live.
+        **This form is public.** Never paste your connector link, and leave out anything private.
+  - type: textarea
+    id: asked
+    attributes:
+      label: What did you ask?
+      description: Your question, as you typed it.
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What went wrong?
+      options:
+        - It missed a book, quote or passage I expected
+        - It quoted something out of context
+        - The citation or page was wrong
+        - It was slow or gave an error
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it have found? (optional)
+      description: "For example: the author, book, a quote, or the page."
+    validations:
+      required: false
+  - type: dropdown
+    id: app
+    attributes:
+      label: Which AI app?
+      options:
+        - Claude
+        - ChatGPT
+        - Gemini
+        - Other
+    validations:
+      required: false
