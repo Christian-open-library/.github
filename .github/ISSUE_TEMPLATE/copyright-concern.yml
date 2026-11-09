@@ -1,0 +1,30 @@
+name: Copyright concern
+description: Tell us about material in the library that shouldn't be there.
+title: "Copyright concern: "
+labels: ["copyright"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We only want texts that are free to share. Tell us which work you mean and why, and we'll review it and remove it promptly if it shouldn't be here.
+        **This form is public.** If you'd rather not identify yourself here, you can still describe the concern.
+  - type: input
+    id: work
+    attributes:
+      label: Author and title (as listed in the catalog)
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: What's the concern?
+      description: "For example: a modern translation or edition, a recent author, or a different license."
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Your connection to the work (optional)
+      description: "For example: rights holder, publisher, or reader."
+    validations:
+      required: false

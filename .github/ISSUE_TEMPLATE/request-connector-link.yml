@@ -1,0 +1,31 @@
+name: Request a connector link
+description: Ask for a personal link to search the library from Claude.
+title: "Connector link: "
+labels: ["connector request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The connector lets Claude search the whole library by meaning, read passages with page citations, look up Bible verses (seven translations) and dictionary entries, and find which historic writers cited a verse.
+        Your link is personal and is sent **privately**. It is never posted here. It's free, read-only, and has a fair-use daily limit.
+        **This request is public.** Don't include an email address or other private details here. We'll reach you through the email address on your GitHub profile, or reply here to arrange a private way to send it.
+  - type: input
+    id: name
+    attributes:
+      label: Your name (optional)
+    validations:
+      required: false
+  - type: textarea
+    id: use
+    attributes:
+      label: How will you use it?
+      description: "For example: sermon preparation, Bible study, research."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      options:
+        - label: I'll keep my link to myself and won't share it. Anyone with the link can use it under my daily limit.
+          required: true

@@ -1,0 +1,43 @@
+name: Suggest a book
+description: Suggest a public-domain or Creative Commons book for the library.
+title: "Suggestion: "
+labels: ["book suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The library accepts only free-to-share texts:
+        - books in the public domain (generally published in the US before 1931), in their original wording rather than modernized, abridged or newly translated editions;
+        - or texts that carry a Creative Commons license.
+        Please search the [catalog](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) first.
+  - type: input
+    id: author
+    attributes:
+      label: Author
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year first published (and edition, if known)
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: Where to find the text
+      description: "A link to a scan or transcription, e.g. archive.org, HathiTrust, CCEL or Project Gutenberg."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs in the library (optional)
+    validations:
+      required: false

@@ -1,0 +1,37 @@
+name: Request library access
+description: Ask for an invitation to download the library (and the members-only Monergism collection).
+title: "Library access: "
+labels: ["access request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest. We'll invite your GitHub account; watch for the email from GitHub and accept it.
+        **This request is public.** Don't include an email address, phone number or other private details.
+  - type: input
+    id: name
+    attributes:
+      label: Your name (optional)
+    validations:
+      required: false
+  - type: textarea
+    id: use
+    attributes:
+      label: How will you use the library?
+      description: "For example: sermon preparation, teaching, research."
+    validations:
+      required: true
+  - type: checkboxes
+    id: collections
+    attributes:
+      label: What would you like?
+      options:
+        - label: The Library (public-domain books)
+        - label: The Monergism collection (members only)
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      options:
+        - label: I'll use the Monergism collection for personal study only and won't repost or share its files.
+          required: true
