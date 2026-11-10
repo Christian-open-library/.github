@@ -10,14 +10,14 @@ A curated library of public-domain Christian books in clean, searchable text: th
 | Collection | What it holds | Access |
 |---|---|---|
 | **The Library** | About 4,200 public-domain and Creative Commons works, 1500s to 1920s, in their original editions where possible | Free, by invitation |
-| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with quotations, page citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with GitHub |
+| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with quotations, page citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 | **Monergism collection** | About 900 more books from Monergism's free ebooks: modern authors and edited or translated editions | Library members only, for personal study. Not part of the connector |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
 
 ## Use the AI connector
 
-Free for anyone with a [GitHub account](https://github.com/signup); no invitation needed. Add this address to your AI app, then sign in with GitHub when it asks:
+Free for anyone; no invitation needed. Add this address to your AI app, then sign in with your email (you'll get a code) or with GitHub when it asks:
 
 ```
 https://mcp.christianopenlibrary.org/mcp

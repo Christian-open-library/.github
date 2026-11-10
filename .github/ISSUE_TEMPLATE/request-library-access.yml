@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for your interest. We'll invite your GitHub account; watch for the email from GitHub and accept it.
-        You don't need to ask for the AI connector: anyone can sign in to it with GitHub.
+        You don't need to ask for the AI connector: anyone can sign in to it with their email or GitHub.
         **This request is public.** Don't include an email address, phone number or other private details.
   - type: input
     id: name
