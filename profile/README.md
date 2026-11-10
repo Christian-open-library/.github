@@ -46,18 +46,18 @@ Only free-to-share texts are accepted:
 
 Every addition is checked for copyright and duplicates before it goes in.
 
-## Keep it running
+## Support the library
 
-The library and the AI connector are free for everyone. Running the connector costs a few dollars a month: the search AI, the domain name, and electricity for the server. This card shows this month's costs, how they're paid for, and how far gifts reach into the coming months. It updates as more people use the connector.
+The library and the AI connector are free for everyone. If they're useful to you, you can support Matt Miller's work on them. The card shows what the connector costs to run each month, and it updates as more people use it.
 
 <a href="https://github.com/sponsors/mattm4444">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://mcp.christianopenlibrary.org/support.svg?theme=dark">
-    <img alt="This month's running costs for the AI connector and how much has been given" src="https://mcp.christianopenlibrary.org/support.svg?theme=light" width="720">
+    <img alt="What the AI connector costs to run this month, and how it's covered" src="https://mcp.christianopenlibrary.org/support.svg?theme=light" width="720">
   </picture>
 </a>
 
-**[Give through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once, to fund the coming months. Anything above a month's costs carries forward. Gifts go to Matt Miller, who runs the library, and aren't tax-deductible.
+**[Give through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. Gifts go to Matt personally to support his work on the library, and aren't tax-deductible.
 
 ## Copyright and security
 
