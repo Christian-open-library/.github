@@ -48,7 +48,7 @@ Every addition is checked for copyright and duplicates before it goes in.
 
 ## Keep it running
 
-The library and the AI connector are free for everyone. Running the connector costs a few dollars a month: the search AI, the domain name, and electricity for the server. This card shows this month's costs, how they're paid for, and how far gifts reach into the coming months.
+The library and the AI connector are free for everyone. Running the connector costs a few dollars a month: the search AI, the domain name, and electricity for the server. This card shows this month's costs, how they're paid for, and how far gifts reach into the coming months. It updates as more people use the connector.
 
 <a href="https://github.com/sponsors/mattm4444">
   <picture>
