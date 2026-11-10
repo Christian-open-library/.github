@@ -29,6 +29,8 @@ https://mcp.christianopenlibrary.org/mcp
 
 Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. Each person has a fair-use daily limit.
 
+The connector's code is open: **[read the source](https://github.com/Christian-open-library/Connector)** and the **[security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md)**. It stores no accounts, documents or conversations, and it only reads public-domain books.
+
 ## Download the books
 
 The books themselves are shared by invitation. **[Request access](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml)**, accept the invitation email from GitHub, then open the library and choose **Code → Download ZIP**, or clone it with git.
