@@ -10,28 +10,28 @@ A curated library of public-domain Christian books in clean, searchable text: th
 | Collection | What it holds | Access |
 |---|---|---|
 | **The Library** | About 4,200 public-domain and Creative Commons works, 1500s to 1920s, in their original editions where possible | Free, by invitation |
-| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with quotations, page citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for library members: sign in with GitHub |
+| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with quotations, page citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with GitHub |
 | **Monergism collection** | About 900 more books from Monergism's free ebooks: modern authors and edited or translated editions | Library members only, for personal study. Not part of the connector |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
 
-## Get access
+## Use the AI connector
 
-You need a free [GitHub account](https://github.com/signup).
+Free for anyone with a [GitHub account](https://github.com/signup); no invitation needed. Add this address to your AI app, then sign in with GitHub when it asks:
 
-1. **[Request access](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml).** When we've invited you, accept the invitation email from GitHub.
-2. **The books:** open the library and choose **Code → Download ZIP**, or clone it with git.
-3. **The AI connector:** add this address to your AI app, then sign in with GitHub when it asks:
+```
+https://mcp.christianopenlibrary.org/mcp
+```
 
-   ```
-   https://mcp.christianopenlibrary.org/mcp
-   ```
+- **Claude:** Settings → Connectors → **Add custom connector**, paste the address, then **Connect**.
+- **ChatGPT** (paid plans): Settings → Apps & Connectors → turn on Developer mode → **Create**, paste the address, choose OAuth.
+- **Gemini:** Settings → Connected Apps → **Add a custom app**, paste the address.
 
-   - **Claude:** Settings → Connectors → **Add custom connector**, paste the address, then **Connect**.
-   - **ChatGPT** (paid plans): Settings → Apps & Connectors → turn on Developer mode → **Create**, paste the address, choose OAuth.
-   - **Gemini:** Settings → Connected Apps → **Add a custom app**, paste the address.
+Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. Each person has a fair-use daily limit.
 
-   Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. New members can sign in from the night after they accept their invitation.
+## Download the books
+
+The books themselves are shared by invitation. **[Request access](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml)**, accept the invitation email from GitHub, then open the library and choose **Code → Download ZIP**, or clone it with git.
 
 ## Help the library grow
 
