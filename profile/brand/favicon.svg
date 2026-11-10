@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Christian Open Library">
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.45" r="0.75"><stop offset="0" stop-color="#0d1f14"/><stop offset="1" stop-color="#040806"/></radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b"/><feFlood flood-color="#3fb950"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+  <text x="128" y="148" text-anchor="middle" font-family="'Liberation Mono', ui-monospace, Menlo, Consolas, monospace" font-size="150" font-weight="700" fill="#effff3" filter="url(#glow)">λ</text>
+  <path d="M128 176 L40 164 L40 214 L128 228 Z" fill="#0b1a10" stroke="#3fb950" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M128 176 L216 164 L216 214 L128 228 Z" fill="#0b1a10" stroke="#3fb950" stroke-width="11" stroke-linejoin="round"/>
+</svg>
