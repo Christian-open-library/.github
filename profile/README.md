@@ -3,7 +3,7 @@
   <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.svg" width="100%">
 </picture>
 
-A curated library of public-domain Christian books in clean, searchable text: the Church Fathers, the Reformers, the Puritans, Spurgeon, Edwards, historic creeds and confessions, Presbyterian church-order documents, and more. The library also includes seven Bibles and classic Bible dictionaries.
+A curated library of public-domain Christian books in clean, searchable text: the Church Fathers, the Reformers, the Puritans, Spurgeon, Edwards, historic creeds and confessions, Presbyterian church-order documents, and more. The library also includes seven Bibles and classic Bible dictionaries. It is curated by [Matt Miller](https://github.com/mattm4444).
 
 ## What's here
 
@@ -45,6 +45,19 @@ Only free-to-share texts are accepted:
 - Creative Commons licensed.
 
 Every addition is checked for copyright and duplicates before it goes in.
+
+## Keep it running
+
+The library and the AI connector are free for everyone. Running the connector costs a few dollars a month: the search AI, the domain name, and electricity for the server. This card shows this month's costs and how much has been given.
+
+<a href="https://github.com/sponsors/mattm4444">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://mcp.christianopenlibrary.org/support.svg?theme=dark">
+    <img alt="This month's running costs for the AI connector and how much has been given" src="https://mcp.christianopenlibrary.org/support.svg?theme=light" width="720">
+  </picture>
+</a>
+
+**[Give through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. Anything above a month's costs carries forward to the next month. Gifts go to Matt Miller, who runs the library, and aren't tax-deductible.
 
 ## Copyright and security
 
