@@ -3,13 +3,22 @@
   <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.svg" width="100%">
 </picture>
 
-A curated library of public-domain Christian books in clean, searchable text: the Church Fathers, the Reformers, the Puritans, Spurgeon, Edwards, historic creeds and confessions, Presbyterian church-order documents, and more. The library also includes seven Bibles and classic Bible dictionaries. It is curated by [Matt Miller](https://github.com/mattm4444).
+A curated library of public-domain Christian books in clean, searchable text:
+
+- **Theology and devotion:** the Church Fathers, the Reformers, the Puritans, Edwards, and historic creeds and confessions.
+- **Commentaries:** verse by verse, including Calvin, Matthew Henry, Gill, Poole, and Keil and Delitzsch on the Old Testament.
+- **Sermons:** Spurgeon, Whitefield, M'Cheyne, Chalmers, and Simeon's 2,500 sermon outlines on the whole Bible.
+- **Journals:** the Princeton Review (1831–1871), with articles by Charles Hodge and the Alexanders.
+- **Poetry and fiction:** Herbert, Milton, Donne, Rossetti, George MacDonald, Chesterton, Dostoevsky, and more.
+- **Reference:** seven Bibles, classic Bible dictionaries, The Fundamentals, and Presbyterian church-order documents.
+
+It is curated by [Matt Miller](https://github.com/mattm4444).
 
 ## What's here
 
 | Collection | What it holds | Access |
 |---|---|---|
-| **The Library** | About 4,200 public-domain and Creative Commons works, 1500s to 1920s, in their original editions where possible | Free, by invitation |
+| **The Library** | About 4,400 public-domain and Creative Commons works, 1500s to 1920s, in their original editions where possible: theology, commentaries, sermons, journals, poetry and fiction | Free, by invitation |
 | **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with quotations, page citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 | **Monergism collection** | About 900 more books from Monergism's free ebooks: modern authors and edited or translated editions | Library members only, for personal study. Not part of the connector |
 
