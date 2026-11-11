@@ -14,7 +14,9 @@ A curated library of public-domain books in plain, searchable text, centered on 
 - **Classics and other traditions, for context:** Homer, Virgil, Thucydides, the Greek tragedians, Confucius, Lao Tzu, the Bhagavad-Gita, the Koran, and Maimonides.
 - **Reference:** seven Bibles, classic Bible dictionaries, and The Fundamentals.
 
-The Christian Open Library is a personal project of [Matt Miller](https://github.com/mattm4444), a teaching elder in the Presbyterian Church in America (First Presbyterian Church, Louisville, Mississippi). It is not a ministry of his church, his presbytery or the PCA, and none of them directs or endorses it.
+The Christian Open Library is a personal project of [Matt Miller](https://github.com/mattm4444), a teaching elder in the Presbyterian Church in America (First Presbyterian Church, Louisville, MS). It is not a ministry of his church, his presbytery or the PCA, and none of them directs or endorses it.
+
+**Website: [christianopenlibrary.org](https://christianopenlibrary.org)**, with step-by-step setup for each AI app, how to check an answer, and how to download the books.
 
 
 ## What's here
@@ -38,9 +40,9 @@ https://mcp.christianopenlibrary.org/mcp
 - **ChatGPT** (paid plans): Settings → Apps & Connectors → turn on Developer mode → **Create**, paste the address, choose OAuth.
 - **Gemini:** Settings → Connected Apps → **Add a custom app**, paste the address.
 
-Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. Each person has a fair-use daily limit.
+Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. Each person has a fair-use daily limit. Fuller instructions: **[set it up](https://christianopenlibrary.org/setup.html)**.
 
-The connector's code is open: **[read the source](https://github.com/Christian-open-library/Connector)** and the **[security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md)**. It keeps no copy of your conversations or documents, it does not log what you search for, and it only reads public-domain and openly licensed books. Sign-in and search each involve an outside service: **[what happens to your question](https://github.com/Christian-open-library/.github/blob/main/PRIVACY.md)** lists everyone who sees it.
+The connector's code is open: **[read the source](https://github.com/Christian-open-library/Connector)** and the **[security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md)**. It keeps no copy of your conversations or documents, it does not log what you search for, and it only reads public-domain and openly licensed books. Sign-in and search each involve an outside service: **[what happens to your question](https://christianopenlibrary.org/privacy.html)** lists everyone who sees it.
 
 ## Download the books
 
@@ -50,7 +52,7 @@ The books themselves are shared by invitation. **[Request access](https://github
 
 - **[Suggest a book](https://github.com/Christian-open-library/.github/issues/new?template=suggest-a-book.yml)** you've found in a public-domain source.
 - **[Connector feedback](https://github.com/Christian-open-library/.github/issues/new?template=connector-feedback.yml):** tell me when the AI connector missed a book or quoted out of context. Each report becomes a test the connector has to pass. The form is public and needs a GitHub account; you can also write to **hello@christianopenlibrary.org**.
-- **[Corrections log](https://github.com/Christian-open-library/.github/blob/main/CORRECTIONS.md):** every error found and fixed, in the books, the connector or this page.
+- **[Corrections log](https://christianopenlibrary.org/corrections.html):** every error found and fixed, in the books, the connector or this page.
 - Members can add books directly by pull request, following the library's contributing guide.
 
 Only free-to-share texts are accepted:
@@ -71,9 +73,9 @@ Don't take the library on trust. This is how to check it.
 - **Scans are marked.** Every passage from a scanned book is marked as uncorrected OCR.
 - **Every book names its source.** Each file records where its text came from and its license. Only public-domain and openly licensed works are included.
 - **The library doesn't modernize.** It doesn't modernize, correct or abridge the texts it copies. Some sources had already edited their editions; each file names its source, so you can see which edition you are reading.
-- **It is measured.** [How well it finds things](https://github.com/Christian-open-library/.github/blob/main/ACCURACY.md) is tested on a fixed set of questions, and the results are published, misses included.
-- **Corrections are public.** Errors that are found and fixed are listed in the [corrections log](https://github.com/Christian-open-library/.github/blob/main/CORRECTIONS.md).
-- **You can see where your question goes.** The connector keeps no copy of your conversations or documents and doesn't log what you search for. [What happens to your question](https://github.com/Christian-open-library/.github/blob/main/PRIVACY.md) names every party that sees it.
+- **It is measured.** [How well it finds things](https://christianopenlibrary.org/accuracy.html) is tested on a fixed set of questions, and the results are published, misses included.
+- **Corrections are public.** Errors that are found and fixed are listed in the [corrections log](https://christianopenlibrary.org/corrections.html).
+- **You can see where your question goes.** The connector keeps no copy of your conversations or documents and doesn't log what you search for. [What happens to your question](https://christianopenlibrary.org/privacy.html) names every party that sees it.
 - **Open code, reviewed with AI.** The [code is public](https://github.com/Christian-open-library/Connector), and so is its [security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md). The review was carried out with Claude, Anthropic's AI. No outside firm has audited it.
 - **One person, no ads.** A personal project curated by Matt Miller. It has no ads, and no church or denomination directs or endorses it.
 
