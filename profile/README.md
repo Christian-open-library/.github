@@ -68,7 +68,7 @@ Don't take the library on trust. This is how to check it.
 
 - **Quotations are word for word from the library's copy.** The connector returns each passage exactly as it stands in the library's copy, with the author and title, and the year and page where the source gives them. The copies are not perfect: scanned books have misread letters, and some texts have no year or page numbers.
 - **Every quotation can be traced.** Each result carries a reference (such as P1234500017) and a link to where the library's copy came from. Results from Internet Archive scans link to the page itself. If an answer quotes an author without a reference and a link, ask the AI where the words came from.
-- **The AI app writes the answer.** The connector finds and quotes. Your AI app (Claude, ChatGPT or Gemini) reads the passages and writes the answer, and it can summarize badly or quote from memory. Check a quotation against its source before you print or preach it.
+- **The AI app writes the answer.** The connector finds and quotes. Your AI app (Claude, ChatGPT or Gemini) reads the passages and writes the answer, and it can summarize badly or quote from memory. Check a quotation against its source before you print or use it.
 - **It says when it has nothing.** When the library doesn't have a book, or has nothing close to what was asked, the connector says so and tells the AI not to fill the gap from memory. Each result is marked as an exact, close, partial or loose match.
 - **Scans are marked.** Every passage from a scanned book is marked as uncorrected OCR.
 - **Every book names its source.** Each file records where its text came from and its license. Only public-domain and openly licensed works are included.
