@@ -21,7 +21,7 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 
 | Collection | What it holds | Access |
 |---|---|---|
-| **The Library** | About 4,400 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, philosophy, poetry and fiction | Free, by invitation |
+| **The Library** | About 4,600 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, philosophy, poetry and fiction | Free, by invitation |
 | **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
