@@ -1,5 +1,5 @@
 name: Request library access
-description: Ask for an invitation to download the library and the members-only Monergism collection.
+description: Ask for an invitation to download the library.
 title: "Library access: "
 labels: ["access request"]
 body:
@@ -22,17 +22,3 @@ body:
       description: "For example: sermon preparation, teaching, research."
     validations:
       required: true
-  - type: checkboxes
-    id: collections
-    attributes:
-      label: What would you like?
-      options:
-        - label: The Library (public-domain books)
-        - label: The Monergism collection (members only)
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Agreement
-      options:
-        - label: I'll use the Monergism collection for personal study only and won't repost or share its files.
-          required: true
