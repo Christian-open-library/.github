@@ -59,6 +59,15 @@ Only free-to-share texts are accepted:
 
 Every addition is checked for copyright and duplicates before it goes in.
 
+## Why you can trust it
+
+- **Quotations are verbatim.** The connector returns passages exactly as printed, with author, title, year and page, so you can check any quote against its source.
+- **Every book names its source.** Each file records where its text came from and its licence. Only public-domain and openly licensed works are included, and scanned books are marked as scans.
+- **Original wording.** Spelling and wording are kept as printed. Nothing is modernized or abridged.
+- **Private by design.** The connector doesn't store your conversations, documents or accounts.
+- **Open and reviewed.** The [code is public](https://github.com/Christian-open-library/Connector), and so is its [security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md).
+- **Independent and ad-free.** An independent project curated by Matt Miller, with no ads and no affiliation with any church or denomination.
+
 ## Support the library
 
 The library and the AI connector are free for everyone. If they're useful to you, you can support Matt Miller's work on them. The card shows what the connector costs to run each month, and it updates as more people use it.
