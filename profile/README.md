@@ -3,7 +3,7 @@
   <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.svg" width="100%">
 </picture>
 
-A curated library of public-domain books in clean, searchable text, centred on the Christian tradition and the ideas that shaped it:
+A curated library of public-domain books in clean, searchable text, centered on the Christian tradition:
 
 - **Theology and devotion:** the Church Fathers, the Reformers, the Puritans, Edwards, and historic creeds and confessions.
 - **Commentaries and original-language help:** verse by verse, including Calvin, Matthew Henry, Gill, Poole, and Keil and Delitzsch on the Old Testament, plus Greek and Hebrew lexicons and grammars, the Expositor's Greek Testament, Trench's *Synonyms*, and the Treasury of Scripture Knowledge.
