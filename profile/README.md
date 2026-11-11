@@ -14,7 +14,7 @@ A curated library of public-domain books in plain, searchable text, centered on 
 - **Classics and other traditions, for context:** Homer, Virgil, Thucydides, the Greek tragedians, Confucius, Lao Tzu, the Bhagavad-Gita, the Koran, and Maimonides.
 - **Reference:** seven Bibles, classic Bible dictionaries, and The Fundamentals.
 
-The Christian Open Library is a personal project of [Matt Miller](https://github.com/mattm4444), a teaching elder in the Presbyterian Church in America (First Presbyterian Church, Louisville, Mississippi). It is not a ministry of his church, his presbytery or the PCA, and none of them directs or endorses it.
+The Christian Open Library is a personal project of [Matt Miller](https://github.com/mattm4444), a teaching elder in the Presbyterian Church in America (First Presbyterian Church, Louisville, MS). It is not a ministry of his church, his presbytery or the PCA, and none of them directs or endorses it.
 
 **Website: [christianopenlibrary.org](https://christianopenlibrary.org)**, with step-by-step setup for each AI app, how to check an answer, and how to download the books.
 
