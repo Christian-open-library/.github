@@ -12,7 +12,7 @@ A curated library of public-domain books in clean, searchable text, centered on 
 - **Poetry and fiction:** Herbert, Milton, Donne, Rossetti, George MacDonald, Chesterton, Dostoevsky, and more.
 - **Philosophy:** Plato, Aristotle, the Stoics, Descartes, Spinoza, Locke, Hume, Kant, Hegel, Nietzsche, Mill, William James, and more, in older translations.
 - **Classics and other traditions, for context:** Homer, Virgil, Thucydides, the Greek tragedians, Confucius, Lao Tzu, the Bhagavad-Gita, the Koran, and Maimonides.
-- **Reference:** seven Bibles, classic Bible dictionaries, The Fundamentals, and Presbyterian church-order documents.
+- **Reference:** seven Bibles, classic Bible dictionaries, and The Fundamentals.
 
 It is curated by [Matt Miller](https://github.com/mattm4444).
 
@@ -40,7 +40,7 @@ https://mcp.christianopenlibrary.org/mcp
 
 Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. Each person has a fair-use daily limit.
 
-The connector's code is open: **[read the source](https://github.com/Christian-open-library/Connector)** and the **[security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md)**. It stores no accounts, documents or conversations, and it only reads public-domain books.
+The connector's code is open: **[read the source](https://github.com/Christian-open-library/Connector)** and the **[security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md)**. It stores no accounts, documents or conversations, and it only reads public-domain and openly licensed books.
 
 ## Download the books
 
@@ -61,9 +61,9 @@ Every addition is checked for copyright and duplicates before it goes in.
 
 ## Why you can trust it
 
-- **Quotations are verbatim.** The connector returns passages exactly as printed, with author, title, year and page, so you can check any quote against its source.
-- **Every book names its source.** Each file records where its text came from and its licence. Only public-domain and openly licensed works are included, and scanned books are marked as scans.
-- **Original wording.** Spelling and wording are kept as printed. Nothing is modernized or abridged.
+- **Quotations are verbatim.** The connector returns passages exactly as printed, with author, title, year and, where the source has page numbers, the page, so you can check any quote against its source.
+- **Every book names its source.** Each file records where its text came from and its license. Only public-domain and openly licensed works are included, and scanned books are marked as scans.
+- **Original wording.** Spelling and wording are kept as printed. Where a text was cleaned up or part of a work was left out, its file says so.
 - **Private by design.** The connector doesn't store your conversations, documents or accounts.
 - **Open and reviewed.** The [code is public](https://github.com/Christian-open-library/Connector), and so is its [security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md).
 - **Independent and ad-free.** An independent project curated by Matt Miller, with no ads and no affiliation with any church or denomination.
