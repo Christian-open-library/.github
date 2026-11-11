@@ -10,7 +10,9 @@ A curated library of public-domain Christian books in clean, searchable text:
 - **Sermons:** Spurgeon, Whitefield, M'Cheyne, Chalmers, and Simeon's 2,500 sermon outlines on the whole Bible.
 - **Journals:** the Princeton Review (1831–1871), with articles by Charles Hodge and the Alexanders.
 - **Poetry and fiction:** Herbert, Milton, Donne, Rossetti, George MacDonald, Chesterton, Dostoevsky, and more.
-- **Reference:** seven Bibles, classic Bible dictionaries, The Fundamentals, and Presbyterian church-order documents. It is curated by [Matt Miller](https://github.com/mattm4444).
+- **Reference:** seven Bibles, classic Bible dictionaries, The Fundamentals, and Presbyterian church-order documents.
+
+It is curated by [Matt Miller](https://github.com/mattm4444).
 
 ## What's here
 
