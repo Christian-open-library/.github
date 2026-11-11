@@ -82,7 +82,7 @@ The library and the AI connector are free for everyone. If they're useful to you
 
 ## Credits
 
-- **Greek and Latin texts.** The Greek and Latin texts of the Church Fathers and Philo come from the [Open Greek and Latin Project](https://github.com/OpenGreekAndLatin) at the University of Leipzig ([First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek) and [csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)), licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They were converted from the project's TEI XML to Markdown, and the library's copies are shared under the same license.
+- **Greek and Latin texts.** The Greek and Latin texts of the Church Fathers and Philo, and Yonge's English translation of Philo, come from the [Open Greek and Latin Project](https://github.com/OpenGreekAndLatin) at the University of Leipzig ([First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek) and [csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)), licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They were converted from the project's TEI XML to Markdown, and the library's copies are shared under the same license.
 
 ## Copyright and security
 
