@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-dark.svg">
-  <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-dark.png">
+  <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.png" width="100%">
 </picture>
 
 A curated library of public-domain books in plain, searchable text, centered on the Christian tradition:
