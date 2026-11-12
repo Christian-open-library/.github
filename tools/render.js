@@ -36,6 +36,24 @@ const logo = t => `<style>${base}
 .b img { width: 256px; height: 256px; border-radius: 22%; box-shadow: 0 0 0 3px ${t.ring}; } h1 { margin: 0; font-size: 84px; font-weight: 700; letter-spacing: -.03em; color: ${t.ink}; }
 </style><div class="b"><img src="${icon}"><h1>Christian Open Library</h1></div>`;
 
+
+// X (Twitter): avatar is cropped to a circle, so the book is smaller; header is 1500 x 500, and the avatar
+// covers its lower left, so the text sits right of centre.
+const circle = 'data:image/svg+xml;base64,' + Buffer.from(svg.replace('rx="56"', 'rx="0"').replace('scale(1.25)', 'scale(0.98)')).toString('base64');
+const xheader = `<style>${base}
+.h { width: 1500px; height: 500px; background: #f4f4f1; position: relative; overflow: hidden; }
+.t { position: absolute; left: 440px; top: 140px; }
+h1 { margin: 0 0 14px; font-size: 76px; line-height: 1.02; font-weight: 700; letter-spacing: -.03em; color: #1a1a1a; }
+p { margin: 0; font-size: 26px; color: #555; }
+.u { margin-top: 26px; font-size: 24px; color: #1a1a1a; font-weight: 600; }
+.l { position: absolute; inset: 0; display: grid; grid-template-columns: repeat(30, 50px); grid-auto-rows: 46px; padding: 14px 0 0 0;
+     font: 28px 'DejaVu Serif', Georgia, serif; color: #c9a45c; opacity: .45; -webkit-mask-image: linear-gradient(#000, transparent 32%); }
+.l span { text-align: center; }
+.bar { position: absolute; left: 0; right: 0; bottom: 0; height: 14px; background: #e2bc62; }
+</style><div class="h"><div class="l">${letters(90)}</div><div class="t"><h1>Christian Open Library</h1>
+<p>Public-domain Christian books, searchable from Claude, ChatGPT or Gemini</p>
+<div class="u">christianopenlibrary.org</div></div><div class="bar"></div></div>`;
+
 (async () => {
   const b = await chromium.launch();
   const shot = async (html, w, h, file, scale = 1) => {
@@ -51,6 +69,9 @@ const logo = t => `<style>${base}
   await shot(img(square, 1024), 1024, 1024, 'logo.png');       // GitHub avatar: square, GitHub rounds it
   await shot(img(icon, 512), 512, 512, 'brand/icon.png');
   await shot(img(icon, 48), 48, 48, 'brand/favicon.png');
+  fs.mkdirSync(path.join(P, 'social'), { recursive: true });
+  await shot(img(circle, 800), 800, 800, 'social/x-avatar.png');
+  await shot(xheader, 1500, 500, 'social/x-header.png');
   await b.close();
   console.log('drawn');
 })();
