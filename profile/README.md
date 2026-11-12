@@ -6,6 +6,7 @@
 A curated library of public-domain books in plain, searchable text, centered on the Christian tradition:
 
 - **Theology and devotion:** the Church Fathers, the Reformers, the Puritans, Edwards, and historic creeds and confessions.
+- **Denominational records:** constitutions, books of order and discipline, digests, and General Assembly, convention and conference minutes from more than 80 Presbyterian, Baptist, Methodist, Holiness, Anglican, Lutheran, Catholic, Orthodox, Quaker and other church bodies, up to 1930. Ask polity, history and theology questions about your own denomination. These are historical editions, so a church's current rules may differ.
 - **Commentaries and original-language help:** verse by verse, including Calvin, Matthew Henry, Gill, Poole, and Keil and Delitzsch on the Old Testament, plus Greek and Hebrew lexicons and grammars, the Expositor's Greek Testament, Trench's *Synonyms*, and the Treasury of Scripture Knowledge.
 - **Sermons:** Spurgeon, Whitefield, M'Cheyne, Chalmers, and Simeon's 2,500 sermon outlines on the whole Bible.
 - **Journals:** the Princeton Review and its successors (1831–1929), with articles by Charles Hodge, the Alexanders, Warfield and Machen, and the Danville Quarterly Review.
@@ -23,7 +24,7 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 
 | Collection | What it holds | Access |
 |---|---|---|
-| **The Library** | About 4,600 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, philosophy, poetry and fiction | Free, by invitation |
+| **The Library** | About 4,800 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, the records of more than 80 denominations, philosophy, poetry and fiction | Free, by invitation |
 | **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, Bible translations, dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
