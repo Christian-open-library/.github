@@ -12,7 +12,7 @@ A curated library of public-domain books in plain, searchable text, centered on 
 - **Poetry and fiction:** Herbert, Milton, Donne, Rossetti, George MacDonald, Chesterton, Dostoevsky, and more.
 - **Philosophy:** Plato, Aristotle, the Stoics, Descartes, Spinoza, Locke, Hume, Kant, Hegel, Nietzsche, Mill, William James, and more, in older translations.
 - **Classics and other traditions, for context:** Homer, Virgil, Thucydides, the Greek tragedians, Confucius, Lao Tzu, the Bhagavad-Gita, the Koran, and Maimonides.
-- **Reference:** seven Bibles, classic Bible dictionaries, and The Fundamentals.
+- **Reference:** Bible translations, classic Bible dictionaries, and The Fundamentals.
 
 The Christian Open Library is a personal project of [Matt Miller](https://github.com/mattm4444), a teaching elder in the Presbyterian Church in America (First Presbyterian Church, Louisville, MS). It is not a ministry of his church, his presbytery or the PCA, and none of them directs or endorses it.
 
@@ -24,7 +24,7 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 | Collection | What it holds | Access |
 |---|---|---|
 | **The Library** | About 4,600 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, philosophy, poetry and fiction | Free, by invitation |
-| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, seven Bibles (Berean Standard Bible by default), dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
+| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, Bible translations, dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
 
