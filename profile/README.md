@@ -103,7 +103,7 @@ The library and the AI connector are free for everyone. If they're useful to you
   </picture>
 </a>
 
-**[Give by card](https://buymeacoffee.com/christianopenlibrary)** through Buy Me a Coffee (no account needed), or **[through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. Gifts go to Matt personally to support his work on the library, and aren't tax-deductible.
+**[Give by card](https://buymeacoffee.com/christianopenlibrary)** through Buy Me a Coffee (no account needed), or **[through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. You can also send Bitcoin over Lightning to `mattm4444@strike.me`. Gifts go to Matt personally to support his work on the library, and aren't tax-deductible.
 
 ## Credits
 
