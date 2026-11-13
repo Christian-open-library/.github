@@ -42,6 +42,7 @@ body:
         - Claude
         - ChatGPT
         - Gemini
+        - Grok
         - Other
     validations:
       required: false

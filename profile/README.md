@@ -27,7 +27,7 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 | Collection | What it holds | Access |
 |---|---|---|
 | **The Library** | About 4,800 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, the records of more than 80 denominations, philosophy, poetry and fiction | Free, by invitation |
-| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, Bible translations, dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
+| **AI connector** | Search the whole library from Claude, ChatGPT, Gemini, Grok and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, Bible translations, dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
 
@@ -42,6 +42,7 @@ https://mcp.christianopenlibrary.org/mcp
 - **Claude:** Settings → Connectors → **Add custom connector**, paste the address, then **Connect**.
 - **ChatGPT** (paid plans): Settings → Apps & Connectors → turn on Developer mode → **Create**, paste the address, choose OAuth.
 - **Gemini:** Settings → Connected Apps → **Add a custom app**, paste the address.
+- **Grok:** grok.com/connectors → **New Connector** → **Custom**, paste the address.
 
 Menu names change from time to time; look for "connectors" or "MCP" in your app's settings. Each person has a fair-use daily limit. Fuller instructions: **[set it up](https://christianopenlibrary.org/setup.html)**.
 
@@ -89,7 +90,7 @@ Don't take the library on trust. This is how to check it.
 
 - **Quotations are word for word from the library's copy.** The connector returns each passage exactly as it stands in the library's copy, with the author and title, and the year and page where the source gives them. The copies are not perfect: scanned books have misread letters, and some texts have no year or page numbers.
 - **Every quotation can be traced.** Each result carries a reference (such as P1234500017) and a link to where the library's copy came from. Results from Internet Archive scans link to the page itself. If an answer quotes an author without a reference and a link, ask the AI where the words came from.
-- **The AI app writes the answer.** The connector finds and quotes. Your AI app (Claude, ChatGPT or Gemini) reads the passages and writes the answer, and it can summarize badly or quote from memory. Check a quotation against its source before you print or use it.
+- **The AI app writes the answer.** The connector finds and quotes. Your AI app (Claude, ChatGPT, Gemini or Grok) reads the passages and writes the answer, and it can summarize badly or quote from memory. Check a quotation against its source before you print or use it.
 - **It says when it has nothing.** When the library doesn't have a book, or has nothing close to what was asked, the connector says so and tells the AI not to fill the gap from memory. Each result is marked as an exact, close, partial or loose match.
 - **Scans are marked.** Every passage from a scanned book is marked as uncorrected OCR.
 - **Every book names its source.** Each file records where its text came from and its license. Only public-domain and openly licensed works are included.

@@ -4,7 +4,7 @@
 
 ## What the connector is
 
-The connector lets AI apps such as Claude, ChatGPT and Gemini search the Christian Open Library: about 4,200 public-domain Christian books, seven Bibles and several Bible dictionaries. It runs as a small add-on to a hosted website. It can only **read** the library. Nothing you do through it changes the library, the website or anything else.
+The connector lets AI apps such as Claude, ChatGPT, Gemini and Grok search the Christian Open Library: about 4,200 public-domain Christian books, seven Bibles and several Bible dictionaries. It runs as a small add-on to a hosted website. It can only **read** the library. Nothing you do through it changes the library, the website or anything else.
 
 ## What we protect
 
