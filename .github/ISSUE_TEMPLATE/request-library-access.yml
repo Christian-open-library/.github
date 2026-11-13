@@ -27,5 +27,5 @@ body:
     attributes:
       label: Terms
       options:
-        - label: "I've read [what members may do with the books](https://christianopenlibrary.org/download.html#reuse). I won't republish the collection or put it in an app or AI service without asking first."
+        - label: "I've read [what members may do with the books](https://christianopenlibrary.org/download.html#reuse). I won't pass on a copy of the whole collection, republish it, or put it in an app or AI service without asking first."
           required: true

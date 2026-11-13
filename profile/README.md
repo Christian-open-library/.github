@@ -51,7 +51,7 @@ The books themselves are shared by invitation. **[Request access](https://github
 
 ## What members may do with the books
 
-Members may read, quote, print and share the books for study, teaching, preaching and their own writing, and may give a single book to someone else.
+Members may read, quote, print and share the books for study, teaching, preaching and their own writing, and may give a single book to someone else. Please don't pass on a copy of the whole collection: point people to the free [access request](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml) instead.
 
 Please ask first (**hello@christianopenlibrary.org**) before you:
 
