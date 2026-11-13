@@ -10,29 +10,33 @@ body:
         - books in the public domain (generally published in the US before 1931), in their original wording rather than modernized, abridged or newly translated editions;
         - or texts that carry a Creative Commons license.
         Please search the [catalog](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) first.
-  - type: input
+
+        **Several books? Put them all in one suggestion**, one per line in each box below, rather than opening a separate suggestion for each.
+  - type: textarea
     id: author
     attributes:
       label: Author
+      description: For several books, one per line.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: title
     attributes:
       label: Title
+      description: For several books, one per line, in the same order.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: year
     attributes:
       label: Year first published (and edition, if known)
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: source
     attributes:
       label: Where to find the text
-      description: "A link to a scan or transcription, e.g. archive.org, HathiTrust, CCEL or Project Gutenberg."
+      description: "A link to a scan or transcription, e.g. archive.org, HathiTrust, CCEL or Project Gutenberg. For several books, one link per line, in the same order."
     validations:
       required: true
   - type: textarea
