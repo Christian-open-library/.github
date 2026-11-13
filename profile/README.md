@@ -49,6 +49,18 @@ The connector's code is open: **[read the source](https://github.com/Christian-o
 
 The books themselves are shared by invitation. **[Request access](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml)**, accept the invitation email from GitHub, then open the library and choose **Code → Download ZIP**, or clone it with git.
 
+## Reuse the texts
+
+You may use the books in your own app, website or project. Every book has a `license:` line at the top of its main file (the one without "Part" in its name; its parts share it), and `catalog_full.csv` in the library lists every book's license and source, so you can pick the ones that fit:
+
+- **`public-domain` and `cc0`:** use them however you like. Please credit "the Christian Open Library" and keep each book's `source` link.
+- **`cc-by` and `cc-by-sa`:** follow the license: credit the source named in the file, and share `cc-by-sa` texts, and your changes to them, under the same license.
+- **Christian Classics Ethereal Library texts** (`source` on ccel.org): CCEL asks that its files not be sold, so leave them out of anything you charge for.
+- **Project Gutenberg texts:** keep Gutenberg's license header. If you charge for your app, read [Gutenberg's license](https://www.gutenberg.org/policy/license.html) first; it limits use of the Gutenberg name.
+- **Copy the files; don't build on the connector.** The AI connector is for people asking questions, and each search costs money. An app should ship its own copy of the texts, not send its users' searches through the connector.
+
+The library's copies are shared as they are, with no warranty.
+
 ## Help the library grow
 
 - **[Suggest a book](https://github.com/Christian-open-library/.github/issues/new?template=suggest-a-book.yml)** you've found in a public-domain source.
