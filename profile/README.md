@@ -96,14 +96,14 @@ Don't take the library on trust. This is how to check it.
 
 The library and the AI connector are free for everyone. If they're useful to you, you can support Matt Miller's work on them. The card shows what the connector costs to run each month, and it updates as more people use it.
 
-<a href="https://github.com/sponsors/mattm4444">
+<a href="https://buymeacoffee.com/christianopenlibrary">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://mcp.christianopenlibrary.org/support.svg?theme=dark">
     <img alt="What the AI connector costs to run this month, and how it's covered" src="https://mcp.christianopenlibrary.org/support.svg?theme=light" width="720">
   </picture>
 </a>
 
-**[Give through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. Gifts go to Matt personally to support his work on the library, and aren't tax-deductible.
+**[Give by card](https://buymeacoffee.com/christianopenlibrary)** through Buy Me a Coffee (no account needed), or **[through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. Gifts go to Matt personally to support his work on the library, and aren't tax-deductible.
 
 ## Credits
 
