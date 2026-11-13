@@ -19,8 +19,6 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 
 **Website: [christianopenlibrary.org](https://christianopenlibrary.org)**, with step-by-step setup for each AI app, how to check an answer, and how to download the books.
 
-**On X: [@openlibraryall](https://x.com/openlibraryall)**, for news of new books. Ask questions there too.
-
 
 ## What's here
 
