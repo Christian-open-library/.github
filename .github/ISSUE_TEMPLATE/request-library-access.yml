@@ -9,7 +9,6 @@ body:
         Thanks for your interest. We'll invite your GitHub account; watch for the email from GitHub and accept it.
         You don't need to ask for the AI connector: anyone can sign in to it with their email or GitHub.
         **This request is public.** Don't include an email address, phone number or other private details.
-        Before you use the books in an app, website or anything you sell, read [what you may do with them](https://christianopenlibrary.org/download.html#reuse).
   - type: input
     id: name
     attributes:
@@ -23,3 +22,10 @@ body:
       description: "For example: sermon preparation, teaching, research."
     validations:
       required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: "I've read [what members may do with the books](https://christianopenlibrary.org/download.html#reuse). I won't republish the collection or put it in an app or AI service without asking first."
+          required: true

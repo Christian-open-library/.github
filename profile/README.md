@@ -49,17 +49,23 @@ The connector's code is open: **[read the source](https://github.com/Christian-o
 
 The books themselves are shared by invitation. **[Request access](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml)**, accept the invitation email from GitHub, then open the library and choose **Code → Download ZIP**, or clone it with git.
 
-## Reuse the texts
+## What members may do with the books
 
-You may use the books in your own app, website or project. Every book has a `license:` line at the top of its main file (the one without "Part" in its name; its parts share it), and `catalog_full.csv` in the library lists every book's license and source, so you can pick the ones that fit:
+Members may read, quote, print and share the books for study, teaching, preaching and their own writing, and may give a single book to someone else.
 
-- **`public-domain` and `cc0`:** use them however you like. Please credit "the Christian Open Library" and keep each book's `source` link.
-- **`cc-by` and `cc-by-sa`:** follow the license: credit the source named in the file, and share `cc-by-sa` texts, and your changes to them, under the same license.
-- **Christian Classics Ethereal Library texts** (`source` on ccel.org): CCEL asks that its files not be sold, so leave them out of anything you charge for.
-- **Project Gutenberg texts:** keep Gutenberg's license header. If you charge for your app, read [Gutenberg's license](https://www.gutenberg.org/policy/license.html) first; it limits use of the Gutenberg name.
-- **Copy the files; don't build on the connector.** The AI connector is for people asking questions, and each search costs money. An app should ship its own copy of the texts, not send its users' searches through the connector.
+Please ask first (**hello@christianopenlibrary.org**) before you:
 
-The library's copies are shared as they are, with no warranty.
+- republish the collection or a large part of it, for example as another library, website or download;
+- put it in an app, an AI service or anything you sell.
+
+Some books carry their own terms as well. Every book has a `license:` line at the top of its main file (the one without "Part" in its name; its parts share it), and `catalog_full.csv` in the library lists every book's license and source:
+
+- **`cc-by` and `cc-by-sa`:** you may share these under their license. Credit the source named in the file, and share `cc-by-sa` texts, and your changes to them, under the same license.
+- **Christian Classics Ethereal Library texts** (`source` on ccel.org): CCEL asks that its files not be sold, so never put them in anything you charge for.
+- **Project Gutenberg texts:** keep Gutenberg's license header.
+- **Don't build an app on the AI connector.** The connector is for people asking questions, and each search costs money.
+
+Breaking these terms ends your access. The library's copies are shared as they are, with no warranty.
 
 ## Help the library grow
 
