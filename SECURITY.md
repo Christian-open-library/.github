@@ -8,7 +8,7 @@ The connector lets AI apps such as Claude, ChatGPT, Gemini and Grok search the C
 
 ## What we protect
 
-- **Who can use it.** Anyone who signs in with a verified email address or with GitHub (through WorkOS). The connector checks each sign-in's signature and expiry, gives every person a daily limit, can block an account, and caps the paid part of search per day so costs can't run away. A few early users still have a private link with a long random key; without a valid sign-in or key, the connector answers as if it doesn't exist.
+- **Who can use it.** Anyone who signs in with a verified email address, Google or GitHub (through WorkOS). The connector checks each sign-in's signature and expiry, gives every person a daily limit, can block an account, and caps the paid part of search per day so costs can't run away. A few early users still have a private link with a long random key; without a valid sign-in or key, the connector answers as if it doesn't exist.
 - **What it can see.** It searches only the published library. It stores no accounts, documents or personal data from its users.
 - **Your searches.** Search text is not kept in logs unless the operator turns that on for troubleshooting. Secret keys are always removed from logs.
 - **The host website.** The connector has strict limits on time, size and the number of requests, so heavy use can't take the website down.

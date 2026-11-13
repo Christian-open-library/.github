@@ -33,7 +33,7 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 
 ## Use the AI connector
 
-Free for anyone; no invitation needed. Add this address to your AI app, then sign in with your email (you'll get a code) or with GitHub when it asks:
+Free for anyone; no invitation needed. Add this address to your AI app, then sign in with Google, your email (you'll get a code) or GitHub when it asks:
 
 ```
 https://mcp.christianopenlibrary.org/mcp
