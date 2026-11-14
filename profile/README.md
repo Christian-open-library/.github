@@ -56,21 +56,36 @@ The books themselves are shared by invitation. **[Request access](https://github
 
 ## What members may do with the books
 
-Members may read, quote, print and share the books for study, teaching, preaching and their own writing, and may give a single book to someone else. Please don't pass on a copy of the whole collection: point people to the free [access request](https://github.com/Christian-open-library/.github/issues/new?template=request-library-access.yml) instead.
+**In short:** your own study and small free projects, yes. Apps, AI services and anything paid, no. These rules cover the books and the AI connector, and they are the whole answer: the library doesn't take requests for other uses. *Why: the collection took years to gather and check, every AI search costs money, and some texts are here only by permission.*
 
-Please ask first (**hello@christianopenlibrary.org**) before you:
+✅ **Yes, no need to ask:**
 
-- republish the collection or a large part of it, for example as another library, website or download;
-- put it in an app, an AI service or anything you sell.
+- Read, study, print and keep them.
+- Quote them in sermons, lessons, books, articles and posts, including books you sell. Give the source.
+- Give one book to someone.
+- Load them into your own AI tool, such as NotebookLM or a ChatGPT project, for your own study.
+- Use up to 10 books in a free project, such as a study guide, a church reading list or a class handout. That's 10 books in total, however many versions, volumes or spin-offs the project has; a book in several files counts as one. Keep the words unchanged (no AI rewrites or translations in their place; your own translation, marked as yours, is fine), credit the source named in each file with a link to christianopenlibrary.org, and don't suggest the library endorses it.
 
-Some books carry their own terms as well. Every book has a `license:` line at the top of its main file (the one without "Part" in its name; its parts share it), and `catalog_full.csv` in the library lists every book's license and source:
+❌ **No** (unless a book's own license allows it, below):
 
-- **`cc-by` and `cc-by-sa`:** you may share these under their license. Credit the source named in the file, and share `cc-by-sa` texts, and your changes to them, under the same license.
-- **Christian Classics Ethereal Library texts** (`source` on ccel.org): CCEL asks that its files not be sold, so never put them in anything you charge for.
+- Apps, websites or AI services built on the collection or a large part of it (more than 10 books).
+- Anything paid: anything sold, or with subscriptions, paid upgrades, ads or sponsorship (quoting, above, is the exception).
+- AI training or datasets, for any purpose, your own included.
+- Copies of the collection: mirrors, public uploads, shared drives, or passing on your download or sign-in. Each person, in a church or class too, needs their own.
+- The AI connector behind anything else, such as another app, website, bot or service, or to copy texts out in bulk.
+
+⛔ **Never:** documents used by permission. A few present-day church documents are in the AI connector by their owners' permission. They are not in the downloads. Quote only what you need and credit the church body; never copy or share one whole.
+
+**Need more? Use the originals.** They are free at their own sources. Every file names where it was copied from, such as EEBO-TCP, the Christian Classics Ethereal Library, Internet Archive or Project Gutenberg. Use them there, on those sites' own terms.
+
+**Each book's own license.** These rules are the terms of membership, not a copyright claim. Every book's main file (the one without "Part" in its name) has a `license:` line, which its parts share, and `catalog_full.csv` in the library lists every book's license and source:
+
+- **`cc-by` and `cc-by-sa`:** may be shared as their license allows, whatever these rules say. Credit the source named in the file, and share `cc-by-sa` texts, and your changes to them, under the same license.
+- **Christian Classics Ethereal Library texts** (`source` on ccel.org): never sell them.
+- **The Intermediate Greek-English Lexicon** (`cc-by-nc-sa`, from Perseus): non-commercial use only; keep its license statement and offer any changes to Perseus.
 - **Project Gutenberg texts:** keep Gutenberg's license header.
-- **Don't build an app on the AI connector.** The connector is for people asking questions, and each search costs money.
 
-Breaking these terms ends your access. The library's copies are shared as they are, with no warranty.
+Breaking these rules ends your access. The library's copies are shared as they are, with no warranty. The rules are also on the website: [christianopenlibrary.org/download.html#reuse](https://christianopenlibrary.org/download.html#reuse).
 
 ## Help the library grow
 
