@@ -56,7 +56,7 @@ The books themselves are shared by invitation. **[Request access](https://github
 
 ## What members may do with the books
 
-**In short:** your own study and small free projects, yes. Apps, AI services and anything paid, no. These rules cover the books and the AI connector, and they are the whole answer: the library doesn't take requests for other uses. *Why: the collection took years to gather and check, every AI search costs money, and some texts are here only by permission.*
+**You can use the books for yourself and in small free projects. You can't put them in apps, AI services or anything that makes money. We don't make exceptions, so please don't ask.** *Why: the collection took years to gather and check, every AI search costs money, and some texts are here only by permission.*
 
 ✅ **Yes, no need to ask:**
 
