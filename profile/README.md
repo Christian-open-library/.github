@@ -126,7 +126,7 @@ The library and the AI connector are free for everyone, with no ads. Gifts pay f
 
 ## Credits
 
-- **Christian Classics Ethereal Library.** Many of the texts come from [CCEL](https://ccel.org) at Calvin University, which prepared the electronic editions and asks that its files not be sold. The library is free and sells nothing.
+- **Christian Classics Ethereal Library.** Many of the texts come from [CCEL](https://ccel.org) at Calvin University, which prepared the electronic editions and asks that its files not be sold. The books here are free to everyone and are never sold.
 - **Other sources.** The Text Creation Partnership (EEBO-TCP, Evans-TCP and ECCO-TCP), the Internet Archive, Project Gutenberg and Standard Ebooks. Every book's file names the page it came from.
 - **Greek and Latin texts.** The Greek and Latin texts of the Church Fathers and Philo, and Yonge's English translation of Philo, come from the [Open Greek and Latin Project](https://github.com/OpenGreekAndLatin) at the University of Leipzig ([First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek) and [csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)), licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They were converted from the project's TEI XML to Markdown, and the library's copies are shared under the same license.
 
