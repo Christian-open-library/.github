@@ -3,7 +3,7 @@
   <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.png" width="100%">
 </picture>
 
-A curated library of public-domain books in plain, searchable text, centered on the Christian tradition:
+An independent library of Christian books and church records: about 7,700 public-domain works, from the Church Fathers to the early 1900s, and the historic records of more than 80 denominations, in plain, searchable text, free to search. It holds:
 
 - **Theology and devotion:** the Church Fathers, the Reformers, the Puritans, Edwards, and historic creeds and confessions.
 - **Denominational records:** constitutions, books of order and discipline, digests, and General Assembly, convention and conference minutes from more than 80 Presbyterian, Baptist, Methodist, Holiness, Anglican, Lutheran, Catholic, Orthodox, Quaker and other church bodies, up to 1930. Ask polity, history and theology questions about your own denomination: tell your AI app your church ("I'm in the PCA", "UMC", "LCMS") and it searches only the records of that body and the bodies it came from, labeling each with its edition and year. These are historical editions, so a church's current rules may differ.
@@ -17,7 +17,7 @@ A curated library of public-domain books in plain, searchable text, centered on 
 
 **No AI-written or AI-translated text.** Every book is the published work of a human author or translator, copied from the printed edition or a transcription of it.
 
-The Christian Open Library is a personal project of [Matt Miller](https://github.com/mattm4444), a pastor in the Presbyterian Church in America. It is not a ministry of his church, his presbytery or the PCA, and none of them directs or endorses it.
+The Christian Open Library is an independent library of Christian books and church records, founded by [Matt Miller](https://github.com/mattm4444), a pastor in the Presbyterian Church in America. It is not a ministry of any church, presbytery or denomination, and none of them directs or endorses it. Write to us at **hello@christianopenlibrary.org**.
 
 **Website: [christianopenlibrary.org](https://christianopenlibrary.org)**, with step-by-step setup for each AI app, how to check an answer, and how to download the books.
 
@@ -28,7 +28,7 @@ The Christian Open Library is a personal project of [Matt Miller](https://github
 
 | Collection | What it holds | Access |
 |---|---|---|
-| **The Library** | About 6,400 public-domain and Creative Commons works, from antiquity to the 1920s, in their original editions where possible: theology, commentaries, sermons, journals, the records of more than 80 denominations, philosophy, poetry and fiction | Free, by invitation |
+| **The Library** | About 7,700 public-domain and Creative Commons works, from antiquity to the early 1900s, in their original editions where possible: theology, commentaries, sermons, journals, the records of more than 80 denominations, philosophy, poetry and fiction | Free, by invitation |
 | **AI connector** | Search the whole library from Claude, ChatGPT, Gemini, Grok and other AI apps that support connectors, by meaning, with word-for-word quotations, citations, Bible translations, dictionaries, and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
@@ -56,7 +56,7 @@ The books themselves are shared by invitation. **[Request access](https://github
 
 ## What members may do with the books
 
-**You can use the books for yourself and in small free projects. You can't put them in apps, AI services or anything that makes money. We don't make exceptions, so please don't ask.** *Why: the collection took years to gather and check, every AI search costs money, and some texts are here only by permission.*
+**You can use the books for yourself and in small free projects. You can't put them in apps, AI services or anything that makes money without a written license from us.** *Why: the collection took years to gather and check, every AI search costs money, and some texts are here only by permission.*
 
 ✅ **Yes, no need to ask:**
 
@@ -90,7 +90,7 @@ Breaking these rules ends your access. The library's copies are shared as they a
 ## Help the library grow
 
 - **[Suggest a book](https://github.com/Christian-open-library/.github/issues/new?template=suggest-a-book.yml)** you've found in a public-domain source.
-- **[Connector feedback](https://github.com/Christian-open-library/.github/issues/new?template=connector-feedback.yml):** tell me when the AI connector missed a book or quoted out of context. Each report becomes a test the connector has to pass. The form is public and needs a GitHub account; you can also write to **hello@christianopenlibrary.org**.
+- **[Connector feedback](https://github.com/Christian-open-library/.github/issues/new?template=connector-feedback.yml):** tell us when the AI connector missed a book or quoted out of context. Each report becomes a test the connector has to pass. The form is public and needs a GitHub account; you can also write to **hello@christianopenlibrary.org**.
 - **[Corrections log](https://christianopenlibrary.org/corrections.html):** every error found and fixed, in the books, the connector or this page.
 - Members can add books directly by pull request, following the library's contributing guide.
 
@@ -99,7 +99,7 @@ Only free-to-share texts are accepted:
 - public domain (generally published in the US before 1931);
 - Creative Commons licensed.
 
-I review every addition for copyright and duplicates before it goes in. If something slips through, the copyright concern form below gets it removed.
+Every addition is reviewed for copyright and duplicates before it goes in. If something slips through, the copyright concern form below gets it removed.
 
 ## How to check it
 
@@ -116,13 +116,13 @@ Don't take the library on trust. This is how to check it.
 - **Corrections are public.** Errors that are found and fixed are listed in the [corrections log](https://christianopenlibrary.org/corrections.html).
 - **You can see where your question goes.** The connector keeps no copy of your conversations or documents and doesn't log what you search for. [What happens to your question](https://christianopenlibrary.org/privacy.html) names every party that sees it.
 - **Open code, reviewed with AI.** The [code is public](https://github.com/Christian-open-library/Connector), and so is its [security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md). The review was carried out with Claude, Anthropic's AI. No outside firm has audited it.
-- **One person, no ads.** A personal project curated by Matt Miller. It has no ads, and no church or denomination directs or endorses it.
+- **Independent, no ads.** An independent library founded by Matt Miller. It has no ads, and no church or denomination directs or endorses it.
 
 ## Support the library
 
 The library and the AI connector are free for everyone, with no ads. Gifts pay for the server and the search service, and for the work of finding, checking and adding books.
 
-**[Give by card](https://buymeacoffee.com/christianopenlibrary)** through Buy Me a Coffee (no account needed), or **[through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. You can also send Bitcoin over Lightning to `mattm4444@strike.me`. Gifts go to Matt personally to support his work on the library, and aren't tax-deductible.
+**[Give by card](https://buymeacoffee.com/christianopenlibrary)** through Buy Me a Coffee (no account needed), or **[through GitHub Sponsors](https://github.com/sponsors/mattm4444)**, monthly or once. You can also send Bitcoin over Lightning to `mattm4444@strike.me`. The library is not yet a registered charity or under a fiscal sponsor, so gifts are received by its founder, Matt Miller, and are not tax-deductible.
 
 ## Credits
 
@@ -132,7 +132,7 @@ The library and the AI connector are free for everyone, with no ads. Gifts pay f
 
 ## Copyright and security
 
-- **Copyright concern?** If you believe something in the library shouldn't be here, use the **[copyright concern form](https://github.com/Christian-open-library/.github/issues/new?template=copyright-concern.yml)**. I review it and remove the material promptly. You can also write to hello@christianopenlibrary.org.
-- **Security:** the connector is read-only and was put through a structured security review, carried out with Claude, Anthropic's AI (not an outside audit). Read the [summary](https://github.com/Christian-open-library/.github/blob/main/SECURITY.md). To report a problem privately, use **Report a vulnerability** on that page's repository.
+- **Copyright concern?** If you believe something in the library shouldn't be here, use the **[copyright concern form](https://github.com/Christian-open-library/.github/issues/new?template=copyright-concern.yml)**. We review it and remove the material promptly. You can also write to hello@christianopenlibrary.org.
+- **Security:** the connector is read-only and was put through a structured security review, carried out with Claude, Anthropic's AI (not an outside audit). Read the [security review](https://github.com/Christian-open-library/Connector/blob/main/docs/security-review.md). To report a problem privately, use **Report a vulnerability** on that page's repository.
 
 <p align="right"><sub><samp>// soli deo gloria</samp></sub></p>

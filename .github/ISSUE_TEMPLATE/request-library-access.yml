@@ -26,7 +26,7 @@ body:
     id: app
     attributes:
       label: Will you put the books in an app, website or AI service?
-      description: "Up to 10 books in a free project are fine. More than that, AI training and anything paid aren't allowed, and the library doesn't take requests for them. [The rules](https://christianopenlibrary.org/download.html#reuse)."
+      description: "Up to 10 books in a free project are fine. More than that, AI training and anything paid aren't allowed without a written license from us (write to hello@christianopenlibrary.org). [The rules](https://christianopenlibrary.org/download.html#reuse)."
       options:
         - "No"
         - "Yes, up to 10 books in a free project"
