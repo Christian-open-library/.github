@@ -64,19 +64,21 @@ The books themselves are shared by invitation. **[Request access](https://github
 - Quote them in sermons, lessons, books, articles and posts, including books you sell. Give the source.
 - Give one book to someone.
 - Load them into your own AI tool, such as NotebookLM or a ChatGPT project, for your own study.
-- Use up to 10 books in a free project, such as a study guide, a church reading list or a class handout. That's 10 books in total, however many versions, volumes or spin-offs the project has; a book in several files counts as one. Keep the words unchanged (no AI rewrites or translations in their place; your own translation, marked as yours, is fine), credit the source named in each file with a link to christianopenlibrary.org, and don't suggest the library endorses it.
+- Use up to 10 books in a free project, such as a study guide, a church reading list or a class handout. That's 10 books in total, however many versions, volumes or spin-offs the project has; a book in several files counts as one. A collected Works set is many books: each treatise in it counts as its own book. Keep the words unchanged (no AI rewrites or translations in their place; your own translation, marked as yours, is fine), credit the source named in each file with a link to christianopenlibrary.org, and don't suggest the library endorses it.
 
 ❌ **No** (unless a book's own license allows it, below):
 
-- Apps, websites or AI services built on the collection or a large part of it (more than 10 books).
-- Anything paid: anything sold, or with subscriptions, paid upgrades, ads or sponsorship (quoting, above, is the exception).
-- AI training or datasets, for any purpose, your own included.
+- Apps, websites or AI services built on the collection or a large part of it (more than 10 books), unless we've given you a written license.
+- Anything paid: anything sold, or with subscriptions, paid upgrades, ads or sponsorship (quoting, above, is the exception), unless we've given you a written license.
+- AI training or datasets, for any purpose, your own included. No license covers this.
 - Copies of the collection: mirrors, public uploads, shared drives, or passing on your download or sign-in. Each person, in a church or class too, needs their own.
 - The AI connector behind anything else, such as another app, website, bot or service, or to copy texts out in bulk.
 
 ⛔ **Never:** documents used by permission. A few present-day church documents are in the AI connector by their owners' permission. They are not in the downloads. Quote only what you need and credit the church body; never copy or share one whole.
 
 **Need more? Use the originals.** They are free at their own sources. Every file names where it was copied from, such as EEBO-TCP, the Christian Classics Ethereal Library, Internet Archive or Project Gutenberg. Use them there, on those sites' own terms.
+
+Free projects stop at 10 books. For more, or for anything paid, write to hello@christianopenlibrary.org. Licenses are agreed case by case and never include texts from the Christian Classics Ethereal Library, the Perseus lexicon or documents used by permission.
 
 **Each book's own license.** These rules are the terms of membership, not a copyright claim. Every book's main file (the one without "Part" in its name) has a `license:` line, which its parts share, and `catalog_full.csv` in the library lists every book's license and source:
 
