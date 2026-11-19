@@ -3,7 +3,7 @@
   <img alt="Christian Open Library" src="https://raw.githubusercontent.com/Christian-open-library/.github/main/profile/banner-light.png" width="100%">
 </picture>
 
-Christian books and historic records from the Church Fathers to the early 1900s. Free to search. An independent library of about 7,700 public-domain works and the records of more than 80 denominations, all in plain text. It holds:
+Christian books and historic records from the Church Fathers to the early 1900s. Free to search. An independent library of over 7,600 public-domain works and the records of more than 80 denominations, all in plain text. It holds:
 
 - **Theology and devotion:** the Church Fathers, the Reformers, the Puritans, Edwards, and historic creeds and confessions.
 - **Denominational records:** constitutions, books of order and discipline, digests, and General Assembly, convention and conference minutes up to 1930. They come from more than 80 Presbyterian, Baptist, Methodist, Holiness, Anglican, Lutheran, Catholic, Orthodox, Quaker and other church bodies. Ask polity, history and theology questions about your own denomination. Tell your AI app your church ("I'm in the PCA", "UMC", "LCMS"). It will search only the records of that body and the bodies it came from. Each result is labeled with its edition and year. These are historical editions, so a church's current rules may differ.
@@ -28,7 +28,7 @@ The Christian Open Library is an independent library of Christian books and chur
 
 | Collection | What it holds | Access |
 |---|---|---|
-| **The Library** | About 7,700 public-domain and Creative Commons works from antiquity to the early 1900s, in their original editions where possible. Theology, commentaries, sermons, journals, the records of more than 80 denominations, philosophy, poetry and fiction | Free, by invitation |
+| **The Library** | Over 7,600 public-domain and Creative Commons works from antiquity to the early 1900s, in their original editions where possible. Theology, commentaries, sermons, journals, the records of more than 80 denominations, philosophy, poetry and fiction | Free, by invitation |
 | **AI connector** | Search the whole library by meaning from Claude, ChatGPT, Gemini, Grok and other AI apps with connectors. Word-for-word quotations with citations. Bible translations, dictionaries and a finder for which historic writers cited any verse | Free for anyone: sign in with your email or GitHub |
 
 **Browse every title:** [`catalog.csv`](https://github.com/Christian-open-library/.github/blob/main/catalog.csv) (author, title, year, type).
